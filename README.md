@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently Working on **Webdevlopment**
 
-- 🌱 I’m currently learning **Datbase Management**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **panchalkalp118@gmail.com**
 
