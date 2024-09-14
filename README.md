@@ -1,3 +1,4 @@
+![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUgJ-mn48z5ds4mMuH0-D-uViEdI1dI9fiOg&s)
 <h1 align="center">Hi 👋, I'm Kalp Panchal</h1>
 <h3 align="center">A Diploma Engineering Student From India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"
@@ -21,4 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalp24&show_icons=true&locale=en" alt="kalp24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalp24&" alt="kalp24" /></p>
-
